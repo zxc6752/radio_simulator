@@ -1,0 +1,6 @@
+imsi-2089300007487
+reg
+sess 10 add dnn=internet,sst=1,sd=010203
+sess 10 del
+show all
+dereg
